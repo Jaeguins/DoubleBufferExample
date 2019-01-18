@@ -1,0 +1,3 @@
+﻿  DoubleBuffering.cpp
+c:\users\jsu48\desktop\doublebufferexample\doublebuffering\doublebuffering\doublebuffering.cpp(124): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  DoubleBuffering.vcxproj -> C:\Users\jsu48\Desktop\DoubleBufferExample\DoubleBuffering\Debug\DoubleBuffering.exe
